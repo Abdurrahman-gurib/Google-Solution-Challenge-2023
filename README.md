@@ -3,12 +3,12 @@ You can access real-time data about the possibility of an earthquake, learn abou
 
 one-drive folder link:- https://drive.google.com/file/d/1vbhwt4-w2owDj2uHxDAsDARKPK4H318P/view?usp=share_link
 
-Download and extract in a seperate folder
-copy & paste the extracted folder in your vscode development folder
+Download and extract in a seperate folder,
+copy & paste the extracted folder in your vscode development folder,
 open terminal
 
 Command to execute and compile app:
 
-type cd flutter_earthquake_app_api-master
-type flutter run
+1. cd flutter_earthquake_app_api-master
+2. flutter run
 
